@@ -41,6 +41,5 @@ echo "<script>
 echo "</body>" >> lb.html;
 echo "</html>" >> lb.html;
 
-# save the index.html created by imageindex as index.html.old
-# symlink index.html to lb.html so that that shows up by default in the browser
-ln -s lb.html index.html
+# overwrite the index.html from imageindex and just our lb.html as the index.html
+cp lb.html index.html
