@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html401/strict.dtd">
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" CONTENT="imageindex 1.1">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<META NAME="DateBegin" CONTENT="202412161507.22">
+<META NAME="DateEnd" CONTENT="202412171540.01">
+<META NAME="NumImages" CONTENT="3">
+<TITLE>Image directory</TITLE>
+<LINK TYPE="text/css" REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY>
+<SCRIPT TYPE="text/javascript">
+if (parent.frames.length > 0) {
+   parent.location.href = self.document.location
+}
+</SCRIPT>
+<H1 CLASS="title">Image directory</H1>
+<H3><A HREF="slides/frame.html">slideshow view (frames)</A>&nbsp;&nbsp;|&nbsp;&nbsp;<A HREF="details.html">details index</A>
+<BR>
+</H3>
+<H2 CLASS="daterange">12/16/2024 - 12/17/2024</H2>
+<TABLE WIDTH="100%" CLASS="index">
+  <TR>
+    <TD CLASS="index" VALIGN="middle" ALIGN="center">
+      <DIV CLASS="index">12/16/2024 3:07:22 PM</DIV>
+      <A HREF="slides/IMG_3170.html" TITLE="IMG_3170.jpg (1.8M)" NAME="IMG_3170.jpg"><IMG SRC="thumbnail/IMG_3170.jpg" WIDTH="200" HEIGHT="150" ALT=" IMG_3170.jpg " CLASS="index"></A>
+      <DIV CLASS="index"><A HREF="IMG_3170.jpg">full size</A>&nbsp;|&nbsp;<A HREF="medium/IMG_3170.jpg">medium</A>&nbsp;|&nbsp;<A HREF="details.html#IMG_3170.jpg">details</A></DIV>
+    </TD>
+
+    <TD CLASS="index" VALIGN="middle" ALIGN="center">
+      <DIV CLASS="index">12/17/2024 08:21:07 AM</DIV>
+      <A HREF="slides/IMG_3176.html" TITLE="IMG_3176.jpg (2.0M)" NAME="IMG_3176.jpg"><IMG SRC="thumbnail/IMG_3176.jpg" WIDTH="200" HEIGHT="150" ALT=" IMG_3176.jpg " CLASS="index"></A>
+      <DIV CLASS="index"><A HREF="IMG_3176.jpg">full size</A>&nbsp;|&nbsp;<A HREF="medium/IMG_3176.jpg">medium</A>&nbsp;|&nbsp;<A HREF="details.html#IMG_3176.jpg">details</A></DIV>
+    </TD>
+
+    <TD CLASS="index" VALIGN="middle" ALIGN="center">
+      <DIV CLASS="index">12/17/2024 3:40:01 PM</DIV>
+      <A HREF="slides/IMG_3187.html" TITLE="IMG_3187.jpg (3.9M)" NAME="IMG_3187.jpg"><IMG SRC="thumbnail/IMG_3187.jpg" WIDTH="200" HEIGHT="150" ALT=" IMG_3187.jpg " CLASS="index"></A>
+      <DIV CLASS="index"><A HREF="IMG_3187.jpg">full size</A>&nbsp;|&nbsp;<A HREF="medium/IMG_3187.jpg">medium</A>&nbsp;|&nbsp;<A HREF="details.html#IMG_3187.jpg">details</A></DIV>
+    </TD>
+
+  </TR>
+</TABLE>
+<DIV CLASS="credits"><I>page created on Sun Dec 22 10:41:37 2024</I><BR>
+by <A HREF="http://www.edwinh.org/imageindex/">imageindex</A> 1.1</DIV>
+</BODY>
+</HTML>
